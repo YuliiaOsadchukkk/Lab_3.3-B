@@ -1,0 +1,5 @@
+﻿  UnitTest3.3B-_-.cpp
+F:\ООП\Тема 3\Lab_3.3-B\Lab_3.3-B\Lab_3.3-B\BitString.cpp(43,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 3\Lab_3.3-B\Lab_3.3-B\Lab_3.3-B\BitString.cpp(64,26): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\ООП\Тема 3\Lab_3.3-B\Lab_3.3-B\Debug\UnitTest3.3B-_-.lib and object F:\ООП\Тема 3\Lab_3.3-B\Lab_3.3-B\Debug\UnitTest3.3B-_-.exp
+  UnitTest3.3B-_-.vcxproj -> F:\ООП\Тема 3\Lab_3.3-B\Lab_3.3-B\Debug\UnitTest3.3B-_-.dll
